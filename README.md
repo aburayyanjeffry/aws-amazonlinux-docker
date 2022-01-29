@@ -38,4 +38,4 @@ docker run --name some-nginx -d -p 80:80 nginx
 ```
 
 7. Access the Nginx at the web browser by using the EC2 public url or public IP.
-![nginx](/img/awn-nginx-docker.png)
+![nginx](img/awn-nginx-docker.png)
